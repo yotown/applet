@@ -7,10 +7,10 @@ These applets are designed to showcase, experiment with, and extend the Yo.Town 
 
 ## 🚀 Features (Coming Soon)
 
-- ⚙️ **3D Geometry Tools** – lightweight applets for geometry processing and visualization.  
-- 🎨 **Creative Experiments** – interactive applets for digital gifts, art, and customizations.  
-- 🌐 **WebAssembly Ready** – C++/WebAssembly modules that can run both locally and on the web.  
-- 📦 **Reusable Components** – open utilities for developers working with 3D, either rendering or printing.
+- **3D Geometry Tools** – lightweight applets for geometry processing and visualization.  
+- **Creative Experiments** – interactive applets for digital gifts, art, and customizations.  
+- **WebAssembly Ready** – C++/WebAssembly modules that can run both locally and on the web.  
+- **Reusable Components** – open utilities for developers working with 3D, either rendering or printing.
 
 ---
 
