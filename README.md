@@ -9,7 +9,7 @@ These applets are designed to showcase, experiment with, and extend the Yo.Town 
 
 - **3D Geometry Tools** – lightweight applets for geometry processing and visualization.  
 - **Creative Experiments** – interactive applets for digital gifts, art, and customizations.
-- **Cloud 3D Engine** - typical 3D workflows (repair, segmentation, boolean, remeshing, slicing prep) on scalable compute via a simple API calls.
+- **Cloud 3D Engine** - typical 3D workflows (repair, segmentation, boolean, remeshing, slicing prep) on scalable API calls.
 - **WebAssembly Ready** – C++/WebAssembly modules that can run both locally and on the web.  
 - **Reusable Components** – open utilities for developers working with 3D, either rendering or printing.
 
